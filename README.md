@@ -1,6 +1,6 @@
 https://greataihackathon.com/
 
-# GreatAI Backend
+# GreatAI Backend - Core
 
 This repository contains the backend implementation for the GreatAI Hackathon. It is built using FastAPI to manage tool calls for AI agents.
 
